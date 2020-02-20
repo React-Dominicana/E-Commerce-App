@@ -7,3 +7,6 @@ e-commerce apps may provide a service to consumers. If it is a service that is p
 Regardless of what's being sold, whether it's physical or virtual, every e-commerce app will consist of some storefront with the product or service details. If users can purchase multiple products at once, it should have a shopping cart where users can manage the products they want to buy.
 
 Finally, every e-commerce app needs a checkout process where users can either purchase their products anonymously or once they are authenticated.
+
+
+Basic Example: https://www.freecodecamp.org/news/content/images/2020/01/ecommerce-cropped-min.gif
