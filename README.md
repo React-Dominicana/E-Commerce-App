@@ -9,4 +9,6 @@ Regardless of what's being sold, whether it's physical or virtual, every e-comme
 Finally, every e-commerce app needs a checkout process where users can either purchase their products anonymously or once they are authenticated.
 
 
-Basic Example: https://www.freecodecamp.org/news/content/images/2020/01/ecommerce-cropped-min.gif
+[Basic Example](https://www.freecodecamp.org/news/content/images/2020/01/social-media-cropped-min.gif)
+
+[Idea taken from this post](https://www.freecodecamp.org/news/5-react-projects-you-need-in-your-portfolio/)
